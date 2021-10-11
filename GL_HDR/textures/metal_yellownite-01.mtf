@@ -1,0 +1,4 @@
+"diffuse map" "textures\metal_yellownite-01.tga"
+"normal map" "textures\metal_yellownite-01_n.tga"
+"specular map" "textures\metal_yellownite-01_g.tga"
+"shader" "bump"

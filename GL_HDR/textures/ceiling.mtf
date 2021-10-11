@@ -1,0 +1,4 @@
+"diffuse map" "textures\ceiling.tga"
+"normal map" "textures\ceiling_n.tga"
+"specular map" "textures\ceiling_g.tga"
+"shader" "bump"

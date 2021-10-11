@@ -1,0 +1,6 @@
+"diffuse map" "textures\tex_c.tga"
+"normal map" "textures\tex_n.tga"
+"specular map" "textures\tex_s.tga"
+"2height map" "textures\brick01Bump.tga"
+"2horizon map" "textures\brick01Bump2.tga"
+"shader" "bump"

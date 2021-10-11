@@ -1,0 +1,4 @@
+"diffuse map" "textures\marble_beigetiled.tga"
+"normal map" "textures\marble_beigetiled_n.tga"
+"specular map" "textures\marble_beigetiled_g.tga"
+"shader" "bump"

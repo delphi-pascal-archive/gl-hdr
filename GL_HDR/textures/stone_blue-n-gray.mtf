@@ -1,0 +1,4 @@
+"diffuse map" "textures\stone_blue-n-gray.tga"
+"normal map" "textures\stone_blue-n-gray_n.tga"
+"specular map" "textures\stone_blue-n-gray_g.tga"
+"shader" "bump"

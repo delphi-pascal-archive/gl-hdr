@@ -1,0 +1,3 @@
+"diffuse map" "textures\default.tga"
+"normal map" "textures\default_n.tga"
+"shader" "bump"
